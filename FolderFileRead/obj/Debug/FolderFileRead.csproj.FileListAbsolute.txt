@@ -1,0 +1,7 @@
+D:\FolderFileRead\FolderFileRead\bin\Debug\FolderFileRead.exe.config
+D:\FolderFileRead\FolderFileRead\bin\Debug\FolderFileRead.exe
+D:\FolderFileRead\FolderFileRead\bin\Debug\FolderFileRead.pdb
+D:\FolderFileRead\FolderFileRead\obj\Debug\FolderFileRead.csprojAssemblyReference.cache
+D:\FolderFileRead\FolderFileRead\obj\Debug\FolderFileRead.csproj.CoreCompileInputs.cache
+D:\FolderFileRead\FolderFileRead\obj\Debug\FolderFileRead.exe
+D:\FolderFileRead\FolderFileRead\obj\Debug\FolderFileRead.pdb
